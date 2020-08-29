@@ -11,7 +11,11 @@ namespace Mi_Yonker.Data
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsbuilder)
         {
+<<<<<<< HEAD
             optionsbuilder.UseSqlServer(@"Server=JAMF\LOCALSERVER;Database=MiYonker;Trusted_Connection=True;");
+=======
+            optionsbuilder.UseSqlServer(@"Server=DESKTOP-P1J30VH;Database=MiYonker;Trusted_Connection=True;");
+>>>>>>> StoreController_29-08-2020
         }
 
         public DbSet<Brands> brands { get; set; }
