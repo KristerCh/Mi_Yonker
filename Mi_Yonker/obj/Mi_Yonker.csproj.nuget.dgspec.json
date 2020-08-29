@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj": {}
+    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
   },
   "projects": {
-    "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj": {
+    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj",
+        "projectUniqueName": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
         "projectName": "Mi_Yonker",
-        "projectPath": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj",
-        "packagesPath": "C:\\Users\\Elizabeth Ordoñez\\.nuget\\packages\\",
-        "outputPath": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\obj\\",
+        "projectPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
+        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Elizabeth Ordoñez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
