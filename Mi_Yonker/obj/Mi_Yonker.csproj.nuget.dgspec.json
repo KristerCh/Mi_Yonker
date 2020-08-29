@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
+    "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {
+    "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
+        "projectUniqueName": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
         "projectName": "Mi_Yonker",
-        "projectPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
-        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\obj\\",
+        "projectPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
+        "packagesPath": "C:\\Users\\Krister Chavez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Krister Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
