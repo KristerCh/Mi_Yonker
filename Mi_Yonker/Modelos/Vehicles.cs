@@ -6,15 +6,18 @@ using Microsoft.AspNetCore.Builder;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Mi_Yonker.Models
+namespace Mi_Yonker.Modelos
 {
     public class Vehicles
     {
-        [ForeignKey("id")]
+        [Key]
         public int id { get; set; }
-        public int brand { get; set; }
-        public int model { get; set; }
+        public int brandId { get; set; }
+        [ForeignKey("brandId")]
+        public virtual Brands Brands { get; set; }
         public int year { get; set; }
+        public int modelId { get; set; }
+        [ForeignKey("modelId")]
         public virtual Models Models { get; set; }
     }
 }

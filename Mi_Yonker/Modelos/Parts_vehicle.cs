@@ -5,15 +5,17 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Mi_Yonker.Models
+namespace Mi_Yonker.Modelos
 {
     public class Parts_vehicle
     {
-        [Key]
+       [Key]
        public int id { get; set; }
-       [ForeignKey("part")]
-       public int part { get; set; }
-       [ForeignKey("vehicle")]
-       public int vehicle { get; set; }
+       public int partId { get; set; }
+       [ForeignKey("partId")]
+       public virtual Partlist Partlist { get; set; }
+       public int vehicleId { get; set; }
+       [ForeignKey("vehicleId")]
+       public virtual Vehicles Vehicles { get; set; }
     }
 }

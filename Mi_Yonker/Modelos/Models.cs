@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Mi_Yonker.Models
+namespace Mi_Yonker.Modelos
 {
     public class Models
     {
