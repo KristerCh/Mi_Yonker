@@ -7,11 +7,12 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 
 
-namespace Mi_Yonker.Models
+namespace Mi_Yonker.Modelos
 {
     public class Stores
     {
         [Key]
+        public int id { get; set; }
         public int rtn { get; set; }
         public string name { get; set; }
         public string address { get; set; }

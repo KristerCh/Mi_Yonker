@@ -48,3 +48,14 @@ C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yon
 C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Mi_Yonker.deps.json
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Mi_Yonker.runtimeconfig.json
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Mi_Yonker.runtimeconfig.dev.json
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Mi_Yonker.dll
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Mi_Yonker.pdb
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\obj\Debug\netcoreapp3.1\Mi_Yonker.csproj.CoreCompileInputs.cache
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\obj\Debug\netcoreapp3.1\Mi_Yonker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\obj\Debug\netcoreapp3.1\Mi_Yonker.dll
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\obj\Debug\netcoreapp3.1\Mi_Yonker.pdb
+C:\Users\Krister Chavez\OneDrive\Escritorio\ProyectoIS2\Proyecto_MiYonker\Mi_Yonker\Mi_Yonker\obj\Debug\netcoreapp3.1\Mi_Yonker.genruntimeconfig.cache
