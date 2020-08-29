@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{61A42852-E6D1-4B6A-A682-86488FF719CA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mi_Yonker/Models/Vehicles.cs">
+    <Files>
+      <File FileName="Mi_Yonker/Models/Brands.cs" Line="1" Column="1" />
+      <File FileName="Mi_Yonker/Models/Models.cs" Line="7" Column="27" />
+      <File FileName="Mi_Yonker/Models/Vehicles.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mi_Yonker" expanded="True">
+            <Node name="Mi_Yonker" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Vehicles.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Mi__Yonker PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
