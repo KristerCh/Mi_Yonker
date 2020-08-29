@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
+    "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {
+    "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
+        "projectUniqueName": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj",
         "projectName": "Mi_Yonker",
-        "projectPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
-        "packagesPath": "C:\\Users\\Krister Chavez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\obj\\",
+        "projectPath": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\Mi_Yonker.csproj",
+        "packagesPath": "C:\\Users\\Elizabeth Ordoñez\\.nuget\\packages\\",
+        "outputPath": "D:\\PROYECTO_MI YONKER\\Mi_Yonker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Krister Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Elizabeth Ordoñez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,11 +49,19 @@
               "target": "Package",
               "version": "[3.1.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.7, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -78,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
