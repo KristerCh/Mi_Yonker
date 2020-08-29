@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
-        "projectName": "Mi_Yonker",
-        "projectPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
-        "packagesPath": "C:\\Users\\CASA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CASA\\Documents\\Mi_Yonker\\Mi_Yonker\\obj\\",
-=======
     "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj": {}
   },
   "projects": {
@@ -25,21 +12,13 @@
         "projectPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\Mi_Yonker.csproj",
         "packagesPath": "C:\\Users\\Krister Chavez\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Krister Chavez\\OneDrive\\Escritorio\\ProyectoIS2\\Proyecto_MiYonker\\Mi_Yonker\\Mi_Yonker\\obj\\",
->>>>>>> 82c80e81cf0e0a3961aa5864d6f5ea2c57f37e76
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-<<<<<<< HEAD
-          "C:\\Users\\CASA\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-=======
           "C:\\Users\\Krister Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
->>>>>>> 82c80e81cf0e0a3961aa5864d6f5ea2c57f37e76
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -61,26 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[3.1.7, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
